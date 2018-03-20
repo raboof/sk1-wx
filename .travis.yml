@@ -10,7 +10,6 @@ addons:
     - libpango1.0-dev
     - python-wxgtk2.8
     - python-wxtools
-    - libwxgtk2.8-dev
     - libgtk2.0-dev
     - libmagickwand-dev
 
